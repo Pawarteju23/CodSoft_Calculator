@@ -1,0 +1,71 @@
+body
+{    
+  background: rgb(27,15,24);
+  background: radial-gradient(circle, rgba(27,15,24,0.5013655120251226) 14%, rgba(26,175,94,0.6638304980195203) 100%);
+}
+
+.calci_body
+{
+    width:300px;
+    height:350px;
+    background:#2F4F4F;
+    margin-left: 600px;
+    margin-top: 80px;
+
+}
+
+.calci_screen
+{
+    width: 213px;
+    height: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 8px;
+}
+
+.clear_btn
+{
+    width:60px;
+    height:50px;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-color:#3C4857;
+    background-color:  #ff7665;
+}
+
+.clear_btn:hover
+{
+    background-color:#FFFFE0;
+}
+
+.key
+{
+    width: 60px;
+    height:60px;
+    margin:5px 5px;
+    padding:auto;
+    border-color:#3C4857;
+    background-color:  #ff7665;
+
+}
+
+.key:hover
+{
+    background-color:#FFFFE0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+ 
+  .waviy {
+    position: relative;
+    text-align: center;
+    margin-top: 150px;
+    background: rgb(27,15,24);
+    background: radial-gradient(circle, rgba(27,15,24,0.5013655120251226) 14%, rgba(42,37,42,0.8795167725293243) 100%);
+  }
+  
